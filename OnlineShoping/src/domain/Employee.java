@@ -17,6 +17,7 @@ public class Employee {
 	@Column
 	private String ename;
 	private String email,mobile;
+	private String password;
 	public String getEid() {
 		return eid;
 	}
@@ -40,6 +41,12 @@ public class Employee {
 	}
 	public void setMobile(String mobile) {
 		this.mobile = mobile;
+	}
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
 	}
 	
 	
