@@ -25,5 +25,42 @@
 <a href="student.jsp">Student</a>
 <a href="#">Contact Us</a>
 </div>
+<div align="center" style="border: 2px solid pink;height: auto;width: 200 px">
+
+<form action="RegisterEmployee">
+<P>
+Employee Id<br>
+<input type="text" name="eid">
+</P>
+<p>
+Employee Name<br>
+<input type="text" name="ename" >
+</p>
+<p>
+Password<br>
+<input type="password" name="epassword">
+</p>
+<p>
+Mobile<br>
+<input type="text" name="mobile"></p>
+<p>
+Email<br>
+<input type="text" name="email"></p>
+<p>
+<input type="submit" value="Register">
+
+</p>
+
+
+
+
+</form>
+
+
+
+
+
+
+</div>
 </body>
 </html>
