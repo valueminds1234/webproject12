@@ -1,0 +1,47 @@
+body {
+	border: activeborder;
+	background-color:#E6E6FA;
+	margin: auto;
+}
+.header1{
+	border : 3px solid  white;
+	background-color: #B8860B;
+	width: auto;
+	height: 60px;
+}
+.header2
+{
+	font-size: 20px;
+	font-style: regular;
+	color: #483D8B;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+     font-size: 20 px;
+  
+}
+/* unvisited link */
+a:link {
+    color: white;
+    font-size: 20px;
+    font-family: verdana;
+   
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
