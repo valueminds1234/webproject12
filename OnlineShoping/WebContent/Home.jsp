@@ -23,7 +23,7 @@
 <br>
 <a href="employee.jsp">Employee</a>&nbsp&nbsp&nbsp
 <a href="student.jsp">Student</a>
-
+<a href="#">Contact Us</a>
 </div>
 </body>
 </html>
