@@ -55,6 +55,9 @@ Email<br>
 
 
 </form>
+Already Registered ?<br>
+<a href="#" style="color: blue;text-decoration: none">Sign In Here</a>
+<p>
 
 
 
